@@ -1,5 +1,7 @@
 // It’s only a thought, and a thought can be changed.
 
+// It’s only a thought, and a thought can be changed.
+
 package com.bouvet;
 
 import org.springframework.boot.SpringApplication;
